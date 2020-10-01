@@ -20,6 +20,10 @@
   background-color: lavender;
 }
 
+.btn {
+    width: 100%;
+}
+
 /**************************************************/
 /* Small devices (landscape phones, 576px and up) */
 /**************************************************/
